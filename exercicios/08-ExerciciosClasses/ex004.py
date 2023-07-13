@@ -13,14 +13,14 @@ class Pessoa:
 
     def envelhecer(self):
         if self.idade < 21:
-            self.altura += 0.05
+            self.altura += 0.5
         self.idade += 1
 
     def emagrecer(self):
         self.peso -= 1
 
     def crescer(self):
-        self.altura += 0.05
+        self.altura += 0.5
 
 
 if __name__ == '__main__':
