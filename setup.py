@@ -104,7 +104,7 @@ def find_package_data(
     return out
 
 
-PACKAGE = "danilo-andrade"
+PACKAGE = "daniloandrade"
 NAME = PACKAGE
 DESCRIPTION = "Criando meu primeiro pacote para pypi "
 AUTHOR = "Danilo Andrade"
