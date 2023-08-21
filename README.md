@@ -12,7 +12,7 @@ print('Olá, mundo!')
 
 ### [Python Brasil](https://wiki.python.org.br/ListaDeExercicios)
 
-1. Estrutura Sequencial
+1. [Estrutura Sequencial]([https://github.com/dandrade-silva/python3/tree/main/exercicios](https://github.com/dandrade-silva/python3/tree/main/exercicios/01-EstruturaSequencial))
 1. Estrutura De Decisão
 1. Estrutura De Repetição
 1. Listas
