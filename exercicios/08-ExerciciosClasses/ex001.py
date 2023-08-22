@@ -18,6 +18,6 @@ class Bola:
 
 if __name__ == '__main__':
     bola = Bola('verde', 68, 'couro')
-    print(bola.cor)
+    print(f'A bola é da cor {bola.mostra_cor()}.')
     bola.troca_cor('azul')
-    print(bola.mostra_cor())
+    print(f'A bola é da cor {bola.mostra_cor()}.')
