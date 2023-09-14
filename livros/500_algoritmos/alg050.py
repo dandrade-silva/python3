@@ -27,6 +27,7 @@ altura = int(input('Digite altura: '))
 
 # Calculos
 perimetro = 2 * (base + altura)
+
 area = base * altura
 diagonal = sqrt(base**2 + altura**2)
 
